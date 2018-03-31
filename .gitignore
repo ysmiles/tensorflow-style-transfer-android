@@ -1,0 +1,11 @@
+android/gradlew
+android/gradlew.bat
+android/.idea/modules.xml
+android/gradlew.bat
+android/.idea/misc.xml
+android/.idea/runConfigurations.xml
+android/.idea/caches/build_file_checksums.ser
+android/.idea/codeStyles/Project.xml
+android/gradle/wrapper/gradle-wrapper.jar
+android/gradle/wrapper/gradle-wrapper.properties
+android/src/org/tensorflow/demo/StylizeActivity.java
